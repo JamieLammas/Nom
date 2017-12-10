@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nom</string>
+    <string name="main_activity_name">All Recipes</string>
+    <string name="add_recipe_activity_name">Add a New Recipe</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This edit task has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_recipe_name">Recipe name&#8230;</string>
+    <string name="edit_recipe_ingredients">Ingredients&#8230;</string>
+    <string name="edit_recipe_method">Method&#8230;</string>
+    <string name="recipe_name_string">Recipe Name</string>
+    <string name="ingredients_string">Ingredients</string>
+    <string name="method_string">Method</string>
+    <string name="list_empty">Add your recipes!</string>
+
+    <string name="add_button">Add</string>
+    <string name="action_edit">Edit Recipe</string>
+    <string name="action_add">Add Recipe</string>
+
+</resources>
