@@ -36,6 +36,10 @@
             android:authorities="uk.co.lammasjamie.nom"
             android:exported="false" />
 
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8503115325486711~3815718678"/>
+
 
     </application>
 

@@ -2,8 +2,8 @@ package uk.co.lammasjamie.nom;
 
 import android.content.Context;
 import android.database.Cursor;
-import android.support.annotation.NonNull;
-import android.support.v7.widget.RecyclerView;
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,9 +12,6 @@ import android.widget.TextView;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
-
-import uk.co.lammasjamie.nom.data.RecipeContract;
-import uk.co.lammasjamie.nom.utilities.RecipeDateUtils;
 
 /**
  * Created by Jamie on 05/12/2017.
