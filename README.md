@@ -17,7 +17,7 @@ All recipes are saved to local storage on the device
 
 ## Screenshots
 
-![Start Screen](/screenshots/recipe-list.png)
-![Start Screen](/screenshots/recipe-list.png)
+![Recipe List Screen](/screenshots/recipe-list.png)
+![Recipe Detail Screen](/screenshots/recipe-detail.png)
 
 
